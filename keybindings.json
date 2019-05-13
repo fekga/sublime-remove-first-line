@@ -1,0 +1,16 @@
+[
+    {
+    "keys": ["backspace"],
+    "command": "run_multiple_commands",
+    "args": {
+      "commands": [
+        {
+          "command": "left_delete"
+        },
+        {
+          "command": "remove_first_line",
+        }
+      ]
+    }
+  }
+]
